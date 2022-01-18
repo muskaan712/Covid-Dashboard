@@ -1,3 +1,9 @@
+<div align="center" id="top"> 
+  <img src="Dashboard-1.png" alt="dashboard" />
+  &#xa0;
+
+</div>
+
 <h1 align="center">Covid-19 Dashboard in Tableau</h1>
 
 <p align="center">
@@ -25,9 +31,6 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#man_office_worker-contributing">Contributing</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/anshulg954" target="_blank">Author</a>
 </p>
 
@@ -35,80 +38,27 @@
 
 ## :dart: About ##
 
-Predictive maintenance (PdM), is an idea incorporated for early detection of faults in machines. For the purpose, there needs to be essential collection of data, and converting it into a desired format, getting essential time and frequency domain features and performing desired analysis based on visualizations and results. The main objective of this research is to focus on different aspects of faults in vibratory machine following predictive maintenance, getting the desired features, and providing effective visualization for the same.
+Tableau is a powerful Data Visualization software, and much of its popularity is due to its interactive visualizations & user-friendly interface.
+With the Covid-19 Pandemic raging throughout the world, the availability of discrete data is huge. In today’s data-driven world, this also means the creation of new data, and in turn, a need for new insights.
+Combining Tableau’s visualization prowess with the constantly growing Covid Data, in the form of a Dashboard, will help us get a bird’s-eye view of the current scenario.
 
-## :sparkles: Features ##
-### Time Domain
-:heavy_check_mark: Mean;\
-:heavy_check_mark: Absolute Mean;\
-:heavy_check_mark: Standard Deviation;\
-:heavy_check_mark: Variance;\
-:heavy_check_mark: Max Amplitude;\
-:heavy_check_mark: Min Amplitude;\
-:heavy_check_mark: Root Mean Square;\
-:heavy_check_mark: Peak to Peak;\
-:heavy_check_mark: Square Mean Root;\
-:heavy_check_mark: Standard Moment;\
-:heavy_check_mark: Skewness;\
-:heavy_check_mark: Skewness Factor;'\
-:heavy_check_mark: Kurtosis;\
-:heavy_check_mark: Kurtosis Factor;\
-:heavy_check_mark: Clearance Factor;\
-:heavy_check_mark: Shape Factor;\
-:heavy_check_mark: Impulse Factor;\
-:heavy_check_mark: Crest Factor;\
-:heavy_check_mark: Sum;\
-:heavy_check_mark: Log;\
-:heavy_check_mark: Entropy Factor;
-
-### Frequency Domain
-:heavy_check_mark: Analytic Signal;\
-:heavy_check_mark: Fast Fourier Transform;\
-:heavy_check_mark: Max Power Spectrum;\
-:heavy_check_mark: Max Envelope;\
-:heavy_check_mark: Frequency Center;\
-:heavy_check_mark: Root Mean Square Frequency;\
-:heavy_check_mark: Variance Frequency;\
-:heavy_check_mark: Root Variance Frequency;\
-:heavy_check_mark: Median Frequency;\
-:heavy_check_mark: Bearing Frequencies;
+## :sparkles: The dashboard answers the following- ##
+:heavy_check_mark: Recoveries made in the globe;\
+:heavy_check_mark: Recoveries made in India;\
+:heavy_check_mark: Confirmed Cases in the globe;\
+:heavy_check_mark: Confirmed Cases in India;\
+:heavy_check_mark: Trend Line of Confirmed Cases;\
+:heavy_check_mark: Rate of Death;\
+:heavy_check_mark: Variation using box plots;\
+:heavy_check_mark: Forecast of confirmed Cases for 2022;\
 
 ## :rocket: Technologies ##
 
-The following tools were used in this project:
+The following tool was used in this project:
 
-- [Python](https://downloads.python.org/)
-- [Numpy](https://numpy.org/)
-- [Scipy](https://www.scipy.org/)
-- [PyFFTW](https://pyfftw.readthedocs.io/en/latest/)
-- [json](https://www.json.org/json-en.html)
-- [mongodb](https://www.mongodb.com/)
+- [Tableau](https://www.tableau.com/)
 
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Python 3.8](https://downloads.python.org/), and [PyFFTW](https://pyfftw.readthedocs.io/en/latest/) installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/anshulg954/pdm
-
-# Access
-$ cd pdm
-
-# Run the project
-$ python main.py 
-```
-# :man_office_worker: Contributing ##
-For major changes, please open an issue first to discuss what you would like to change.
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/anshulg954" target="_blank">Anshul Gupta</a>
+Made with :heart: by <a href="https://github.com/muskaan712" target="_blank">Muskaan Chopra</a>
 
 &#xa0;
 
