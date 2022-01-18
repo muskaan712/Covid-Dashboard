@@ -1,26 +1,22 @@
-<h1 align="center">AI Based Predictive Maintaenance</h1>
+<h1 align="center">Covid-19 Dashboard in Tableau</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/anshulg954/pdm?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/muskaan712/Covid-Dashboard?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/anshulg954/pdm?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/muskaan712/Covid-Dashboard?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/anshulg954/pdm?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/muskaan712/Covid-Dashboard?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/anshulg954/pdm?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/muskaan712/Covid-Dashboard?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/anshulg954/pdm?color=56BEB8" /> 
+  <img alt="Github issues" src="https://img.shields.io/github/issues/muskaan712/Covid-Dashboard?color=56BEB8" /> 
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/anshulg954/pdm?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/muskaan712/Covid-Dashboard?color=56BEB8" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/anshulg954/pdm?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/muskaan712/Covid-Dashboard?color=56BEB8" />
 </p>
 
-<!-- Status -->
 
-<h4 align="center"> 
-	🚧 🚀 Data Engineering and Time + Frequency Domain Feature Extraction from IMS Dataset. 🚧
-</h4> 
 
 <hr>
 
