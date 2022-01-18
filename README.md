@@ -6,7 +6,7 @@
 
 <h1 align="center">Covid-19 Dashboard in Tableau</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/muskaan712/Covid-Dashboard?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/muskaan712/Covid-Dashboard?color=56BEB8">
@@ -21,7 +21,7 @@
 
   <img alt="Github stars" src="https://img.shields.io/github/stars/muskaan712/Covid-Dashboard?color=56BEB8" />
 </p>
-
+ -->
 
 
 <hr>
